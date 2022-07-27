@@ -1,2 +1,2 @@
-# python-aws-boto3-vpc-subnet
-Python AWS Boto3 VPC Subnet Guide
+# python-aws-boto3-vpc
+Python AWS Boto3 VPC Guide
